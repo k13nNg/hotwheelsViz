@@ -37,9 +37,9 @@ app.layout = html.Div([
         )
     ], style={'display': 'flex', 'alignItems': 'center', 'gap': '10px', 'marginBottom': '20px'}),
 
-    dcc.Graph(id='choropleth'),
+    dcc.Graph(id='choropleth', style={'height': '500px', 'width': '100%'}),
 
-    dcc.Interval(id='interval', interval=500, disabled=True, n_intervals=0),
+    dcc.Interval(id='interval', interval=1000, disabled=True, n_intervals=0),
 
     html.Div(id='top-info-container', children=[
         html.Div(id='top-models', style={
