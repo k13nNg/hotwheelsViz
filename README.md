@@ -27,4 +27,5 @@ python3 visualize.py
 This will launch an interactive Plotly window or open a browser tab with the animated map.
 
 # Screenshot
-![CleanShot 2025-05-29 at 13 04 07@2x](https://github.com/user-attachments/assets/fd11a3d5-8018-48f4-9765-00e70b52bce8)
+![CleanShot 2025-06-03 at 22 06 36@2x](https://github.com/user-attachments/assets/83f044aa-53d5-40de-b9bf-e3f7cee034ae)
+
